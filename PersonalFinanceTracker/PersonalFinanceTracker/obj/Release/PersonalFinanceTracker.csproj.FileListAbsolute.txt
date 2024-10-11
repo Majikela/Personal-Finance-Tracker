@@ -1,0 +1,10 @@
+C:\Users\44089ST\AppData\Local\Temporary Projects\PersonalFinanceTracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\44089ST\AppData\Local\Temporary Projects\PersonalFinanceTracker\bin\Release\PersonalFinanceTracker.exe
+C:\Users\44089ST\AppData\Local\Temporary Projects\PersonalFinanceTracker\bin\Release\PersonalFinanceTracker.pdb
+C:\Users\44089ST\AppData\Local\Temporary Projects\PersonalFinanceTracker\obj\Release\PersonalFinanceTracker.exe
+C:\Users\44089ST\AppData\Local\Temporary Projects\PersonalFinanceTracker\obj\Release\PersonalFinanceTracker.pdb
+C:\Users\44089ST\Documents\Visual Studio 2008\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Release\PersonalFinanceTracker.exe
+C:\Users\44089ST\Documents\Visual Studio 2008\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Release\PersonalFinanceTracker.pdb
+C:\Users\44089ST\Documents\Visual Studio 2008\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Release\PersonalFinanceTracker.exe
+C:\Users\44089ST\Documents\Visual Studio 2008\Projects\PersonalFinanceTracker\PersonalFinanceTracker\bin\Release\PersonalFinanceTracker.pdb
+C:\Users\44089ST\Documents\Visual Studio 2008\Projects\PersonalFinanceTracker\PersonalFinanceTracker\obj\Release\ResolveAssemblyReference.cache
